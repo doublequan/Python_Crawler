@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sample crawler", "sample crawler\sample crawler.pyproj", "{6BD26B77-E447-4FD9-89CE-EFBE656B96CD}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "days old", "days old\days old.pyproj", "{C91EC2EC-7A0C-443E-932B-38DB623D9023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6BD26B77-E447-4FD9-89CE-EFBE656B96CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6BD26B77-E447-4FD9-89CE-EFBE656B96CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6BD26B77-E447-4FD9-89CE-EFBE656B96CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6BD26B77-E447-4FD9-89CE-EFBE656B96CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91EC2EC-7A0C-443E-932B-38DB623D9023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91EC2EC-7A0C-443E-932B-38DB623D9023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
